@@ -1,6 +1,2 @@
-*
-!./lib
-!./solutions
-!*.cpp
-!.gitignore
-!*.h
+./solutions/*
+!.solutions/*.cpp
